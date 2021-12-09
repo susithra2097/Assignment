@@ -1,0 +1,47 @@
+* {
+    text-align: center;
+    box-align: center;
+  }
+  
+  .div1 table {
+    width: 60%;
+    height: 50%;
+  }
+  
+  .div1 tr,
+  td,
+  table {
+    margin: 1px 1px;
+    border: 1px solid black;
+  }
+  
+  table {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .div2 table {
+    width: 60%;
+    height: 100%;
+  }
+  
+  .div3 table {
+    width: 60%;
+    height: 100%;
+  }
+  
+  .row1 {
+    background-color: green;
+  }
+  
+  .row3 {
+    background-color: blue;
+  }
+  
+  .left {
+    text-align: left;
+  }
+  
+  .right {
+    text-align: right;
+  }
